@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-q9^ea_64m-4w)no$+kka$ox+cw5%v_2_4^bl2^u*=e@a)86*#5
 DEBUG =False
 
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1','y2s--downloader']
 import django_heroku
 
 
